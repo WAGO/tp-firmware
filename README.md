@@ -1,5 +1,5 @@
 <div style="text-align: left" >
-<img src="images/pfcs.png"
+<img src="images/tp600.jpg"
      alt="install docker" width="500"/>
 </div>
 
